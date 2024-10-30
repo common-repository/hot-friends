@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hot Friends\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-06 22:34+0900\n"
+"PO-Revision-Date: 2009-08-10 00:23+0300\n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: hot_friends.php:100
+#: hot_friends.php:128
+#: hot_friends.php:164
+#: hot_friends.php:208
+msgid "Comments "
+msgstr "комментарии"
+
+#: hot_friends.php:440
+msgid "Title:"
+msgstr "название"
+
+#: hot_friends.php:442
+msgid "Please configure Hot friends via "
+msgstr "пожалуйста, конфигурируйте Hot friends черз"
+
+#: hot_friends_functions.php:52
+msgid "Can not find specified link category, please check category name again."
+msgstr "не могу найти опеределённую категорию ссылки, пожалуйста, выберите имя категории снова"
+
+#: hot_friends_functions.php:55
+msgid "Configuration updated. Waiting for page to be reloaded..."
+msgstr "конфигурация откорректирована. подаждите, пока страница будет перзагружена."
+
+#: hot_friends_functions.php:58
+msgid "Configuration updated."
+msgstr "конфигурация обновлена"
+
+#: hot_friends_functions.php:68
+msgid "Default configuration loaded. Waiting for page to be reloaded..."
+msgstr "загрузить конфигурацию по умолчанию. подождите,пока страница будет перезагружена"
+
+#: hot_friends_functions.php:76
+#: hot_friends_functions.php:83
+msgid "has"
+msgstr "нет"
+
+#: hot_friends_functions.php:76
+#: hot_friends_functions.php:83
+msgid "comments"
+msgstr "комментарии"
+
+#: hot_friends_functions.php:89
+msgid "Language setting updated. Waiting for page to be reloaded..."
+msgstr "настройки языка от корректированы. подождите, пока страница будет перзагружена."
+
+#: hot_friends_functions.php:96
+msgid "Try other plugins developed by author in official Wordpress plugin repository!"
+msgstr "поробуйте другие плагины, разработанные  авторами на официальном хранилище плагинов Wordpress!"
+
+#: hot_friends_functions.php:98
+msgid "Select Language: "
+msgstr "выбрать язык:"
+
+#: hot_friends_functions.php:106
+#: hot_friends_functions.php:233
+msgid "Load default"
+msgstr "загрузить по умолчанию:"
+
+#: hot_friends_functions.php:107
+#: hot_friends_functions.php:234
+msgid "Update setting"
+msgstr "корректировать настройки"
+
+#: hot_friends_functions.php:110
+msgid "Hot Friends display style: "
+msgstr "стиль дисплея Hot Friends:"
+
+#: hot_friends_functions.php:111
+msgid "Link"
+msgstr "ссылка"
+
+#: hot_friends_functions.php:112
+msgid "Avatar"
+msgstr "аватар"
+
+#: hot_friends_functions.php:114
+msgid "Number of Hot Friends to display: "
+msgstr "число  Hot Friends для показа"
+
+#: hot_friends_functions.php:115
+msgid "Rank Hot Friends based on: "
+msgstr "ранг  Hot Friends базируется на:"
+
+#: hot_friends_functions.php:116
+msgid "Random"
+msgstr "произвольный"
+
+#: hot_friends_functions.php:117
+msgid "Weekly comments number"
+msgstr "еженедельное количество комментариев"
+
+#: hot_friends_functions.php:118
+msgid "Monthly comments number"
+msgstr "ежемесячное количество комментариев"
+
+#: hot_friends_functions.php:119
+msgid "Total comments number"
+msgstr "общее количество комментариев"
+
+#: hot_friends_functions.php:121
+msgid "Display comment count"
+msgstr "показать счёт комментариев"
+
+#: hot_friends_functions.php:122
+msgid "Display description"
+msgstr "показать описание"
+
+#: hot_friends_functions.php:123
+msgid "Always displays following links"
+msgstr "всегда показывать следующие ссылки"
+
+#: hot_friends_functions.php:125
+msgid "Note: Links displayed below will be automatically added to Hot Friends list, leave blank if you want to rank hot friends according to associated comments number (Recommended)."
+msgstr "Внимание: ссылки,отображаемые снизу, буду автоматически добавлены к  списку Hot Friends, оставьте  бланк, если вы хотите ранжировать  Hot Friends в соответсвии с необходимым числом комментариев. (рекомендуется)"
+
+#: hot_friends_functions.php:126
+msgid "Links must be separated by comma \",\"! Insensitive with \"http://\""
+msgstr "ссылки должны быть разделены зыпятыми \",\"! нечувствительный с \"http://\""
+
+#: hot_friends_functions.php:133
+msgid "Hot Friends avatar Options"
+msgstr " Hot Friends  опции аватара"
+
+#: hot_friends_functions.php:136
+msgid "avatar Size:"
+msgstr "размер аватара:"
+
+#: hot_friends_functions.php:140
+msgid "Margin for avatar:"
+msgstr "поле для аватара"
+
+#: hot_friends_functions.php:144
+msgid "Note:please adjust the size and the margin of avatar according to width of sidebar. The default size and margin of avatar are (32px) and (5px 0px 0px 5px) respectively."
+msgstr "внимание: пожалуйста, установите размер и поле для аватара в соответствии с шириной контура. по умолчанию размер и поле аватара (32px) и  (5px 0px 0px 5px) соответственно."
+
+#: hot_friends_functions.php:147
+msgid "Hot Friends Cloud Options"
+msgstr "Hot Friends множество облаков"
+
+#: hot_friends_functions.php:150
+msgid "Most hot friend font size (pt) :"
+msgstr "большинство hot friend шрифтового размера (pt):"
+
+#: hot_friends_functions.php:152
+msgid "Color Sample:"
+msgstr "обрзец цвета:"
+
+#: hot_friends_functions.php:155
+msgid "Least hot friend font size (pt):"
+msgstr "наименший hot friend шрифтовой размер (pt):"
+
+#: hot_friends_functions.php:157
+msgid "Gray: "
+msgstr "Серый:"
+
+#: hot_friends_functions.php:162
+msgid "Most hot friend font color:"
+msgstr "наибольший hot friend шрифтовой размер (pt):"
+
+#: hot_friends_functions.php:164
+msgid "Blue: "
+msgstr "Голубой:"
+
+#: hot_friends_functions.php:169
+msgid "Least hot friend font color:"
+msgstr "Наименьший hot friend шрифтовой цвет (pt):"
+
+#: hot_friends_functions.php:171
+msgid "Purple: "
+msgstr "пурпурный:"
+
+#: hot_friends_functions.php:176
+msgid "Separator:"
+msgstr "разделитель:"
+
+#: hot_friends_functions.php:178
+msgid "Pink: "
+msgstr "розовый:"
+
+#: hot_friends_functions.php:183
+msgid "Note: color must be wroten in HEX format, i.e, starts with '#' and followed by 6 HEX numbers (0-9,A-F)."
+msgstr "внимание: цвет должен быть написан в HEX формате, i.e, начинать с '#  следовать к 6 HEX числам (0-9,A-F)."
+
+#: hot_friends_functions.php:184
+msgid "Current hot friends cloud syle:"
+msgstr "текущий hot friends стиль"
+
+#: hot_friends_functions.php:190
+msgid "Automatically add commenter to Blogroll while his/her comments number over "
+msgstr "автоматически добавить комментарий к  Blogroll, пока его или её число комментариев закончится"
+
+#: hot_friends_functions.php:194
+msgid "Add commenter to link category: "
+msgstr "добавить комментарий к категории ссылки"
+
+#: hot_friends_functions.php:195
+msgid "Please input category name exactly. Default is Blogroll."
+msgstr "пожалуйста, введите немедленно имя категории. по умолчанию это  Blogroll."
+
+#: hot_friends_functions.php:196
+#: hot_friends_functions.php:264
+#: hot_friends_functions.php:265
+msgid "Click"
+msgstr "щёлкать"
+
+#: hot_friends_functions.php:196
+#: hot_friends_functions.php:264
+#: hot_friends_functions.php:265
+msgid "here"
+msgstr "здесь"
+
+#: hot_friends_functions.php:196
+msgid "to manage link category."
+msgstr "управлять ссылкой категории"
+
+#: hot_friends_functions.php:200
+msgid "Mail notification when new commenter is been automatically added to Blogroll"
+msgstr "уведомление почты, когда новый комментарий был автоматически добавлен к  Blogroll."
+
+#: hot_friends_functions.php:203
+msgid "Update Schedule: "
+msgstr "обновить расписание:"
+
+#: hot_friends_functions.php:204
+msgid "Hourly"
+msgstr "ежечасный"
+
+#: hot_friends_functions.php:205
+msgid "Daily"
+msgstr "ежедневный"
+
+#: hot_friends_functions.php:206
+msgid "Weekly"
+msgstr "еженедельный"
+
+#: hot_friends_functions.php:207
+msgid "Monthly"
+msgstr "ежемесячный"
+
+#: hot_friends_functions.php:211
+msgid "Current time: "
+msgstr "текещее время"
+
+#: hot_friends_functions.php:213
+msgid "Next update time: "
+msgstr "следующее обновление времени:"
+
+#: hot_friends_functions.php:221
+msgid "Manually update cache"
+msgstr "вручную обновить кэш"
+
+#: hot_friends_functions.php:222
+msgid "Note: Be sure make this option checked to update cache in case of any change occurs, e.g, Hot Friends number or always display links changed."
+msgstr ""
+
+#: hot_friends_functions.php:227
+msgid "Add Author to Blogroll"
+msgstr "добавить автора к BlogRoll"
+
+#: hot_friends_functions.php:228
+msgid " or "
+msgstr "или"
+
+#: hot_friends_functions.php:228
+msgid "feedback"
+msgstr "обратная связь"
+
+#: hot_friends_functions.php:229
+msgid "to author."
+msgstr "автору"
+
+#: hot_friends_functions.php:237
+msgid "Comment Number Query"
+msgstr "запрос на количество комментариев"
+
+#: hot_friends_functions.php:240
+msgid "By Url: "
+msgstr "к Url: "
+
+#: hot_friends_functions.php:243
+#: hot_friends_functions.php:253
+msgid "Weekly comments"
+msgstr "еженедельные комментарии"
+
+#: hot_friends_functions.php:244
+#: hot_friends_functions.php:254
+msgid "Monthly comments"
+msgstr "ежемесячные комментарии"
+
+#: hot_friends_functions.php:245
+#: hot_friends_functions.php:255
+msgid "Total comments"
+msgstr "общие комментарии"
+
+#: hot_friends_functions.php:246
+#: hot_friends_functions.php:256
+msgid "Query"
+msgstr "запрос"
+
+#: hot_friends_functions.php:250
+msgid "By Name: "
+msgstr "Имя:"
+
+#: hot_friends_functions.php:262
+msgid "Import/Export to OPML file"
+msgstr "импорт или экспорт  OPML файла"
+
+#: hot_friends_functions.php:264
+msgid "to import links from opml file."
+msgstr "импортировать ссылки с оpml файла"
+
+#: hot_friends_functions.php:265
+msgid "to export links to opml file."
+msgstr "экспортировать ссылки с оpml файла"
+
